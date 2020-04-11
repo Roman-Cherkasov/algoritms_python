@@ -29,3 +29,5 @@ def sentinel_linar_search(A, n, x):
 a = [5, 15, 9, 22, 4, 9, 66, 16600, 100, 10]
 
 print(sentinel_linar_search(a, len(a), 66))
+
+
